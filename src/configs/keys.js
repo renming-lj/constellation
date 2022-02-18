@@ -1,0 +1,11 @@
+const apiJuHe = ['368ff05fe22dde2808022c2532f5c361', '2854191d31c15b8c2d0f3ddd040028cd', 'd262c722d2875042ae11728d17b5d5c0'];
+let JUHE_APPKEY = apiJuHe[1];
+// console.log(JUHE_APPKEY);
+// ff7bfff4d1090341b06851888d4d5081
+// 368ff05fe22dde2808022c2532f5c361
+// 2854191d31c15b8c2d0f3ddd040028cd
+// d262c722d28st JUHE_APPKEY = ''
+
+export {
+    JUHE_APPKEY
+}
