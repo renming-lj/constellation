@@ -22,7 +22,7 @@ npm run lint
 
 ### 数据来源于聚合数据
 
-使用聚合数据接口
+使用聚合数据免费接口
 
 ### Customize configuration
 
